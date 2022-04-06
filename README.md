@@ -2,14 +2,6 @@
 
 
 
-## Members
-|Name                   |UMID       |
-|-------------------    |-------    |
-|Sangmin Lee            |lees3430   |
-|Wylde Tripp            |wyldet3    |
-|Darcy Lawrence         |lawren12   |
-|Mostafa Raad           |kamalmr    |
-
 ---
 
 The mobile clothing app framework is a template for clients to easily set up an online clothing shop. The framework will provide a general layout along with some useful features which will create a fully functional shop once the client enters their shop’s inventory.
